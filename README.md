@@ -1,8 +1,6 @@
 ## Gabriel Kenzo esteve aqui :D
-
-<div>
+<div align="center">
   <a href="https://github.com/GabrielKenzoT">
-    
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=GabrielKenzoT&amp;theme=tokyonight&amp;show_icons=true&amp;hide_border=true&amp;count_private=true" alt="github stats">
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielKenzoT&layout=compact&hide=java&theme=tokyonight&hide_border=true" alt="github stats">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielKenzoT&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&bg_color=00000000" alt="github stats">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielKenzoT&layout=compact&hide=java&theme=tokyonight&hide_border=true&bg_color=00000000" alt="github stats">
 </div>
