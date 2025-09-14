@@ -6,32 +6,16 @@
 </div>
 
 
-## Languages and Tools:
+## Languages:
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=csharp&logoColor=239120)
 
-<p align="left">   
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="icons/html5.svg" alt="HTML5" width="40" height="40" /> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="icons/css3.svg" alt="CSS3" width="40" height="40" /> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="icons/javascript.svg" alt="JavaScript" width="40" height="40" /> 
-  </a> 
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
-    <img src="icons/bootstrap.svg" alt="Bootstrap" width="45" height="40" /> 
-  </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-    <img src="icons/csharp.svg" alt="C Sharp" width="40" height="40" /> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="icons/python.svg" alt="Python" width="40" height="40" /> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="icons/react.svg" alt="React" width="40" height="40" /> 
-  </a> 
-  <a href="https://code.visualstudio.com/brand" target="_blank" rel="noreferrer"> 
-    <img src="icons/vscode.png" alt="VSCode" width="40" height="40" /> 
-  </a> 
-</p>
+## Tools & Frameworks:
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
